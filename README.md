@@ -1,0 +1,2 @@
+This github contains an implemetnaiton of a novel Clustering Stability Assessment Index (CSAI) in the domain of unsueprvised learning that provide is a new  approach to measuring the quality and consistency of clustering solutions.
+The proposed CSAI validation index leverages a data resampling approach and prediction analysis to assess clustering stability, aggregation of features in clusters, and a distance based on mean squred error. 
